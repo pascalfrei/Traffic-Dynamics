@@ -1,9 +1,8 @@
-# MATLAB Spring 2014 – Research Plan (Template)
-(text between brackets to be removed)
+# MATLAB Spring 2014 – Research Plan 
 
 > * Group Name: Pascal/Fabian 
 > * Group participants names: Frei Pascal, Stelling Fabian
-> * Project Title: Traffic Dynamics
+> * Project Title: Deceleration Behavior of a Platoon
 
 ## General Introduction
 
